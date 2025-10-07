@@ -1,0 +1,5 @@
+{
+  "name": "VEO3 AI Prompt Generator",
+  "description": "An application to help users create detailed and enhanced video prompts for the VEO3 AI model using Gemini. Users can specify characters, actions, scenes, camera work, and more to generate a comprehensive prompt.",
+  "requestFramePermissions": []
+}
